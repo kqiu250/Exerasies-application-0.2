@@ -1,4 +1,5 @@
-# Exercises-application
+# Exercises-application (30 hour owlhack/hackathon)
+
 
 This is a workout application for people who don't have equipment and just want to work out at home.
 
